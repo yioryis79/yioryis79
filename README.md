@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yiorgos
+### Hey, I'm Yiorgos
 
 I'm a Computer Science graduate based in Thessaloniki, Greece. I specialize in building efficient backend systems, networking solutions, and real-time data applications.
 
