@@ -17,5 +17,5 @@ I'm a Computer Science graduate based in Thessaloniki, Greece. I specialize in b
 ---
 
 ### 📬 Connect With Me
-* **LinkedIn:** [Your Profile Link](https://linkedin.com/in/yiorgos-moumouris-a75111265)
+* **LinkedIn:** https://www.linkedin.com/in/yiorgos-moumouris-a75111265/
 * **Email:** yioryis79@gmail.com
