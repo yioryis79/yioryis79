@@ -7,7 +7,7 @@ I'm a Computer Science graduate based in Thessaloniki, Greece. I specialize in b
 ### 🛠️ Tech Stack & Skills
 
 * **Languages:** Python, SQL
-* **Networking & Systems:**REST APIs,, Real-time Data Pipelines
+* **Networking & Systems:REST APIs,, Real-time Data Pipelines
 * **Tools & Environment:** Git,  PostgreSQL
 
 ---
