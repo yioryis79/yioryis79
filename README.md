@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋 I'm [Your Name]
 
-<!--
-**yioryis79/yioryis79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate based in Thessaloniki, Greece. I specialize in building efficient backend systems, networking solutions, and real-time data applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, SQL
+* **Networking & Systems:**REST APIs,, Real-time Data Pipelines
+* **Tools & Environment:** Git,  PostgreSQL
+
+---
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** [Your Profile Link](https://linkedin.com/in/yiorgos-moumouris-a75111265)
+* **Email:** yioryis79@gmail.com
